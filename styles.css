@@ -1,0 +1,165 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px;
+  }
+  
+  .row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    min-height: 400px;
+  }
+  
+  .footer {
+    background-color: rgb(124, 12, 29);
+  
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  
+    color: blanchedalmond;
+    font-family: Arial;
+    text-align: center;
+    border-top: 4px solid black;
+    
+  }
+  
+  .jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #9575cd;
+    color: floralwhite;
+  }
+  
+  .navbar-dark {
+    background-color: rgb(88, 172, 179);
+    box-shadow: 0px 3px 5px rgb(243, 110, 15);
+  }
+  
+  address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+  }
+  
+  body,
+  html {
+    margin-left: 30px;
+    padding: 20px 0px 0px 0px;
+    z-index: 0;
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    background-image: url("bank\ image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .menu {
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+  
+  h1 {
+    padding: 40px 0px 0px 0px;
+    z-index: 0;
+    font-size: 40px;
+    color: white;
+  }
+  
+  img {
+    border-radius: 40%;
+  }
+  
+  .btn1 {
+    width: 70%;
+    height: 90px;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+    border: none;
+    text-decoration: line-through;
+    font: bold 18px sans-serif;
+    background: rgb(104, 116, 41);
+    -webkit-transition: background 2s; /* For Safari 3.0 to 6.0 */
+    transition: background 2s; /* For modern browsers */
+  }
+  
+  .btn2 {
+    width: 70%;
+    height: 90px;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+    border: none;
+    text-decoration: line-through;
+    font: bold 18px sans-serif;
+    background: rgb(104, 116, 41);
+    -webkit-transition: background 2s; /* For Safari 3.0 to 6.0 */
+    transition: background 2s; /* For modern browsers */
+  }
+  
+  .btn1:hover {
+    color: black;
+    background: rgb(27, 133, 122);
+  }
+  
+  .btn2:hover {
+    color: black;
+    background: rgb(55, 173, 162);
+    text-decoration: underline;
+  }
+  
+  #t01,
+  #t02 {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+  }
+  
+  .head1 {
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+    font-family: Verdana;
+    text-decoration: underline;
+  }
+  
+  .modal-dialog2 {
+    margin-left: 30px;
+    padding: 10px 20px;
+    align-content: relative;
+  }
+  
+  .modal-header1 {
+    background-color: #512da8;
+    color: floralwhite;
+  }
+  .modal-header .close {
+    color: floralwhite;
+  }
+  
+  .modal-body1 {
+    background-color: #d1c4e9;
+  }
+  
+  #ul1 {
+    background: #ff9999;
+    padding: 20px;
+  }
+  
+  #ul1 li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+  }
